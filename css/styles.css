@@ -3,6 +3,7 @@ body{
   text-align: center;
 
   font-family: 'Noto Serif', serif;
+  color: #595B83;
 }
 h1{
   margin-top: 0;
@@ -11,6 +12,8 @@ h1{
   */
   font-family: 'Berkshire Swash', cursive;
   font-size: 300%;
+  color: #363062;
+  height: 4;
 }
 h2{
   margin-top: 0;
@@ -18,13 +21,14 @@ h2{
 
   font-family: 'Abril Fatface', cursive;
   font-size: 150%;
-
-
+  color: #363062;
+  font-weight: normal;
 }
 h3{
   margin-top: 0;
     /* font-family: 'Abril Fatface', cursive;*/
   font-family: 'Playfair Display', serif;
+  color: #333456;
 }
 
 hr{
@@ -43,7 +47,6 @@ hr{
 .bottom-container{
   background-color: #E3F6F5;
   padding: 30px;
-
 }
 
 .topIcon{
@@ -83,11 +86,15 @@ background-color: #d3eae6;
 
 }
 .contact{
-  width: 20px;height: 20px;
+  width: 30px;height: 30px;
 
 }
 
 .skill{
   width: 80px;height: 80px;
+
+}
+.footer-link{
+  color:#406882;
 
 }
